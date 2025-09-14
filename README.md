@@ -4,7 +4,7 @@
 
 <!-- ANIMATED GIF -->
 <p align="center">
-  <img src="https://giphy.com/gifs/network-networking-cisco-Zx1KzuQBR8wIbrm81t" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZvOGJyejRqczJ5ZHI3ZXU0anVyZWpjN2RjcWcyZXdvanluemE5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10PNyg7YOcaBQA/giphy.gif" width="400"/>
 </p>
 
 ---
