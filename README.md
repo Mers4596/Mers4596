@@ -66,5 +66,5 @@
 
 ## 🎵 Vibes While Coding
 <p align="center">
-  <img src="https://tr.pinterest.com/pin/171277592073316006/"/>
+  <img src="https://tr.pinterest.com/pin/171277592073316006/">
 </p>
