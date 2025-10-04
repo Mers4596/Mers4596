@@ -66,5 +66,5 @@
 
 ## 🎵 Vibes While Coding
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31npv5l4dkq3ywk4dkfl7mlym3oq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+  <img src="https://tr.pinterest.com/pin/171277592073316006/"/>
 </p>
