@@ -47,6 +47,9 @@
   <a href="https://www.linkedin.com/in/mehmet-ersolak-b06779330/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.kaggle.com/mehmetersolak">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  </a>
   <a href="https://medium.com/@Mehmeters38">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
