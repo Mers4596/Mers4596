@@ -2,11 +2,6 @@
 <h1 align="center">Hi there, I'm Mehmet 👋</h1>
 <h3 align="center">🚀 Computer Engineering Student | AI & Data Science Enthusiast</h3>
 
-<!-- ANIMATED GIF -->
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/GPEgTGtxfGAlk2Wrr2Vn5lu59qSoOfdlWAgjLeJtoELTdkjoKKQ6f5GNxvPpbW6dLvzdh1Ewu0TEmOUSD9jASyb82ibiH6YPKsUEmLQbmrOTbe1G9Qha2Yc8Epr7FAC8-9LFEqRJO8JeqTeNA9_YimU" width="1000"/>
-</p>
-
 ---
 
 ## 🔥 About Me
